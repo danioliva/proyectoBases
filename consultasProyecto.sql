@@ -24,3 +24,5 @@ SELECT longitud, Proteina_entrada FROM mydb.secuencia WHERE longitud=(SELECT min
 
 SELECT s.sec FROM mydb.secuencia s NATURAL JOIN mydb.proteina p WHERE s.proteina_entrada=p.entrada AND p.entrada=(
 	SELECT po.Proteina_entrada FROM mydb.proteina_has_organismo po NATURAL JOIN mydb.proteina p WHERE po.Organismo_nombre_cientifico="Homo sapiens" AND po.proteina_entrada=p.entrada);
+    
+SELECT Proteina_entrada, Proteina_Gen_idGen FROM mydb.Secuencia WHERE longitud<140 ORDER BY longitud;
