@@ -42,3 +42,8 @@ ALTER TABLE mydb.proteina ADD INDEX(nombre_entrada);
 ALTER TABLE mydb.proteina ADD INDEX(nombre);
 ALTER TABLE mydb.gen ADD INDEX(tipo);
 
+
+CREATE USER dani IDENTIFIED BY 'danioliva';
+grant all privileges on feedback.* to dani@localhost;
+
+select * from mydb.gen
