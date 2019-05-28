@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proteins>
+    <protein entrada="A1AU17">
+        <name>NDP Kinase</name>
+        <name_entry>NDK_PELPD</name_entry>
+        <gen_idgen>Ppro_3244</gen_idgen>
+    </protein>
+    <protein entrada="A4SP05">
+        <name>NDP Kinase</name>
+        <name_entry>NDK_AERS4</name_entry>
+        <gen_idgen>ASA_2603</gen_idgen>
+    </protein>
+    <protein entrada="B0BCD9">
+        <name>NDP Kinase</name>
+        <name_entry>NDK_CHLTB</name_entry>
+        <gen_idgen>CTLON_0757</gen_idgen>
+    </protein>
+    <protein entrada="B4S573">
+        <name>NDP Kinase</name>
+        <name_entry>NDK_PROA2</name_entry>
+        <gen_idgen>PAES_2009</gen_idgen>
+    </protein>
+    <protein entrada="B9L159">
+        <name>NDP Kinase</name>
+        <name_entry>NDK_THERP</name_entry>
+        <gen_idgen>trd_1770</gen_idgen>
+    </protein>
+    <protein entrada="C5BLW3">
+        <name>NDP Kinase</name>
+        <name_entry>NDK_TERTT</name_entry>
+        <gen_idgen>TERTU_2637</gen_idgen>
+    </protein>
+    <protein entrada="P01256">
+        <name>Calcitonin gene-related peptide 1</name>
+        <name_entry>CALCA_RAT</name_entry>
+        <gen_idgen>CALCA</gen_idgen>
+    </protein>
+    <protein entrada="Q00604">
+        <name>Norrin</name>
+        <name_entry>NDO_HUMAN</name_entry>
+        <gen_idgen>EVR2</gen_idgen>
+    </protein>
+</proteins>
