@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proteinas_have_organismos>
+    <proteina_has_organismo>
+        <Proteina_entrada>A4SP05</Proteina_entrada>
+        <Proteina_Gen_idGen>ASA_2603</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Aeromonas salmonicida</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>B0BCD9</Proteina_entrada>
+        <Proteina_Gen_idGen>CTLon_0757</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Chlamydia trachomatis serovar L2b</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>Q6ALU8</Proteina_entrada>
+        <Proteina_Gen_idGen>DP1948</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Desulfotalea psychrophila</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>Q9VRJ0</Proteina_entrada>
+        <Proteina_Gen_idGen>CG10670</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Drosophila melanogaster (Fruit
+            fly)</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>Q2JDQ4</Proteina_entrada>
+        <Proteina_Gen_idGen>Francci3_1210</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Frankia casuarinae</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>P46695</Proteina_entrada>
+        <Proteina_Gen_idGen>DIF2</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Homo No Sapiens</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>Q00604</Proteina_entrada>
+        <Proteina_Gen_idGen>EVR2</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Homo sapiens</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>Q80Y75</Proteina_entrada>
+        <Proteina_Gen_idGen>DNAJB13</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Mus musculus</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>A1AU17</Proteina_entrada>
+        <Proteina_Gen_idGen>Ppro_3244</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Pelobacter propionicus</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>B4S573</Proteina_entrada>
+        <Proteina_Gen_idGen>PAES_2009</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Prosthecochloris aestuarii</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>P01256</Proteina_entrada>
+        <Proteina_Gen_idGen>Calca</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Rattus norvegicus</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>Q2KA61</Proteina_entrada>
+        <Proteina_Gen_idGen>RHE_CH01472</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Rhizobium etli</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>C5BLW3</Proteina_entrada>
+        <Proteina_Gen_idGen>TERTU_2637</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Teredinibacter turnerae</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+    <proteina_has_organismo>
+        <Proteina_entrada>B9L159</Proteina_entrada>
+        <Proteina_Gen_idGen>trd_1770</Proteina_Gen_idGen>
+        <Organismo_nombre_cientifico>Thermomicrobium roseum</Organismo_nombre_cientifico>
+    </proteina_has_organismo>
+</proteinas_have_organismos>

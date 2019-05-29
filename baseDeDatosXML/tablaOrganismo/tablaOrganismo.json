@@ -1,0 +1,58 @@
+[
+	{
+		"nombre_cientifico" : "Aeromonas salmonicida",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Chlamydia trachomatis serovar L2b",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Desulfotalea psychrophila",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Frankia casuarinae",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Pelobacter propionicus",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Prosthecochloris aestuarii",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Rhizobium etli",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Teredinibacter turnerae",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Thermomicrobium roseum ",
+		"tipo" : "Bacteria"
+	},
+	{
+		"nombre_cientifico" : "Homo sapiens",
+		"tipo" : "Eukaryota"
+	},
+	{
+		"nombre_cientifico" : "Homo No Sapiens",
+		"tipo" : "Human"
+	},
+	{
+		"nombre_cientifico" : "Drosophila melanogaster (Fruit fly)",
+		"tipo" : "Insect"
+	},
+	{
+		"nombre_cientifico" : "Mus musculus",
+		"tipo" : "Mouse"
+	},
+	{
+		"nombre_cientifico" : "Rattus norvegicus",
+		"tipo" : "Rat"
+	}
+]

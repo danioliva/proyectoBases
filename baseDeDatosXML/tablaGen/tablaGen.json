@@ -1,0 +1,58 @@
+[
+	{
+		"idGen" : "Calca",
+		"tipo" : "calc"
+	},
+	{
+		"idGen" : "CG10670",
+		"tipo" : "Gen"
+	},
+	{
+		"idGen" : "DIF2",
+		"tipo" : "IER3 "
+	},
+	{
+		"idGen" : "ASA_2603",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "CTLon_0757",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "DP1948",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "Francci3_1210",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "PAES_2009",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "Ppro_3244",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "RHE_CH01472",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "TERTU_2637",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "trd_1770",
+		"tipo" : "ndk"
+	},
+	{
+		"idGen" : "EVR2",
+		"tipo" : "ndp"
+	},
+	{
+		"idGen" : "DNAJB13",
+		"tipo" : "TSARG6"
+	}
+]

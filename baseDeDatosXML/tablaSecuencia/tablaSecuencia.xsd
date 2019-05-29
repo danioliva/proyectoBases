@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="secuencias">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="secuencia"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="secuencia">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="sec"/>
+        <xs:element ref="longitud"/>
+        <xs:element ref="Proteina_entrada"/>
+        <xs:element ref="Proteina_Gen_idGen"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sec" type="xs:string"/>
+  <xs:element name="longitud" type="xs:integer"/>
+  <xs:element name="Proteina_entrada" type="xs:NCName"/>
+  <xs:element name="Proteina_Gen_idGen" type="xs:NCName"/>
+</xs:schema>

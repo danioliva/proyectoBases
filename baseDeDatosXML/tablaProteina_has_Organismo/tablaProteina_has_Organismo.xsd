@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="proteinas_have_organismos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="proteina_has_organismo"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="proteina_has_organismo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Proteina_entrada"/>
+        <xs:element ref="Proteina_Gen_idGen"/>
+        <xs:element ref="Organismo_nombre_cientifico"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Proteina_entrada" type="xs:NCName"/>
+  <xs:element name="Proteina_Gen_idGen" type="xs:NCName"/>
+  <xs:element name="Organismo_nombre_cientifico" type="xs:string"/>
+</xs:schema>

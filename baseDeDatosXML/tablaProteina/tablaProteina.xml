@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proteins>
+    <protein entrada="A1AU17">
+        <nombre_entrada>NDK_PELPD</nombre_entrada>
+        <nombre>NDP Kinase</nombre>
+        <Gen_idGen>Ppro_3244</Gen_idGen>
+    </protein>
+    <protein entrada="A4SP05">
+        <nombre_entrada>NDK_AERS4</nombre_entrada>
+        <nombre>NDP Kinase</nombre>
+        <Gen_idGen>ASA_2603</Gen_idGen>
+    </protein>
+    <protein entrada="B0BCD9">
+        <nombre_entrada>NDK_CHLTB</nombre_entrada>
+        <nombre>NDP Kinase</nombre>
+        <Gen_idGen>CTLON_0757</Gen_idGen>
+    </protein>
+    <protein entrada="B4S573">
+        <nombre_entrada>NDK_PROA2</nombre_entrada>
+        <nombre>NDP Kinase</nombre>
+        <Gen_idGen>PAES_2009</Gen_idGen>
+    </protein>
+    <protein entrada="B9L159">
+        <nombre_entrada>NDK_THERP</nombre_entrada>
+        <nombre>NDP Kinase</nombre>
+        <Gen_idGen>trd_1770</Gen_idGen>
+    </protein>
+    <protein entrada="C5BLW3">
+        <nombre_entrada>NDK_TERTT</nombre_entrada>
+        <nombre>NDP Kinase</nombre>
+        <Gen_idGen>TERTU_2637</Gen_idGen>
+    </protein>
+    <protein entrada="P01256">
+        <nombre_entrada>CALCA_RAT</nombre_entrada>
+        <nombre>Calcitonin gene-related peptide 1</nombre>
+        <Gen_idGen>CALCA</Gen_idGen>
+    </protein>
+    <protein entrada="Q00604">
+        <nombre_entrada>NDO_HUMAN</nombre_entrada>
+        <nombre>Norrin</nombre>
+        <Gen_idGen>EVR2</Gen_idGen>
+    </protein>
+    <protein entrada="Q2JDQ4">
+       <nombre_entrada>NDK_FRACC</nombre_entrada>
+       <nombre>NDP kinase</nombre>
+       <Gen_idGen>Francci3_1210</Gen_idGen> 
+    </protein>
+    <protein entrada="Q2KA61">
+        <nombre_entrada>NDK_RHIEC</nombre_entrada>
+        <nombre>NDP kinase</nombre>
+        <Gen_idGen>RHE_CH01472</Gen_idGen>
+    </protein>
+    <protein entrada="Q2KA61">
+        <nombre_entrada>NDK_RHIEC</nombre_entrada>
+        <nombre>NDP kinase</nombre>
+        <Gen_idGen>RHE_CH01472</Gen_idGen>
+    </protein>
+    <protein entrada="Q6ALU8">
+        <nombre_entrada>NDK_DESPS</nombre_entrada>
+        <nombre>NDP kinase</nombre>
+        <Gen_idGen>DP1948</Gen_idGen>
+    </protein>
+    <protein entrada="Q80Y75">
+        <nombre_entrada>DJB13_MOUSE</nombre_entrada>
+        <nombre>	
+            DnaJ homolog subfamily B13</nombre>
+        <Gen_idGen>DNAJB13</Gen_idGen>
+    </protein>
+    <protein entrada="Q9VRJ0">
+        <nombre_entrada>GEN_DROME</nombre_entrada>
+        <nombre>Flap endonuclease GEN</nombre>
+        <Gen_idGen>CG10670</Gen_idGen>
+    </protein>
+</proteins>

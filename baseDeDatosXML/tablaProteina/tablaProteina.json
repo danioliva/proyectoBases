@@ -1,0 +1,90 @@
+{
+    "proteins": {
+        "protein": [
+            {
+                "entrada": "A1AU17",
+                "nombre_entrada": "NDK_PELPD",
+                "nombre": "NDP Kinase",
+                "Gen_idGen": "Ppro_3244"
+            },
+            {
+                "entrada": "A4SP05",
+                "nombre_entrada": "NDK_AERS4",
+                "nombre": "NDP Kinase",
+                "Gen_idGen": "ASA_2603"
+            },
+            {
+                "entrada": "B0BCD9",
+                "nombre_entrada": "NDK_CHLTB",
+                "nombre": "NDP Kinase",
+                "Gen_idGen": "CTLON_0757"
+            },
+            {
+                "entrada": "B4S573",
+                "nombre_entrada": "NDK_PROA2",
+                "nombre": "NDP Kinase",
+                "Gen_idGen": "PAES_2009"
+            },
+            {
+                "entrada": "B9L159",
+                "nombre_entrada": "NDK_THERP",
+                "nombre": "NDP Kinase",
+                "Gen_idGen": "trd_1770"
+            },
+            {
+                "entrada": "C5BLW3",
+                "nombre_entrada": "NDK_TERTT",
+                "nombre": "NDP Kinase",
+                "Gen_idGen": "TERTU_2637"
+            },
+            {
+                "entrada": "P01256",
+                "nombre_entrada": "CALCA_RAT",
+                "nombre": "Calcitonin gene-related peptide 1",
+                "Gen_idGen": "CALCA"
+            },
+            {
+                "entrada": "Q00604",
+                "nombre_entrada": "NDO_HUMAN",
+                "nombre": "Norrin",
+                "Gen_idGen": "EVR2"
+            },
+            {
+                "entrada": "Q2JDQ4",
+                "nombre_entrada": "NDK_FRACC",
+                "nombre": "NDP kinase",
+                "Gen_idGen": "Francci3_1210"
+            },
+            {
+                "entrada": "Q2KA61",
+                "nombre_entrada": "NDK_RHIEC",
+                "nombre": "NDP kinase",
+                "Gen_idGen": "RHE_CH01472"
+            },
+            {
+                "entrada": "Q2KA61",
+                "nombre_entrada": "NDK_RHIEC",
+                "nombre": "NDP kinase",
+                "Gen_idGen": "RHE_CH01472"
+            },
+            {
+                "entrada": "Q6ALU8",
+                "nombre_entrada": "NDK_DESPS",
+                "nombre": "NDP kinase",
+                "Gen_idGen": "DP1948"
+            },
+            {
+                "entrada": "Q80Y75",
+                "nombre_entrada": "DJB13_MOUSE",
+                "nombre": "DnaJ homolog subfamily B13",
+                "Gen_idGen": "DNAJB13"
+            },
+            {
+                "entrada": "Q9VRJ0",
+                "nombre_entrada": "GEN_DROME",
+                "nombre": "Flap endonuclease GEN",
+                "Gen_idGen": "CG10670"
+            }
+        ]
+    }
+}

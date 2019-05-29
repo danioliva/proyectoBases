@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organismos>
+    <organismo>
+        <nombre_cientifico>Aeromonas salmonicida</nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Chlamydia trachomatis serovar L2b</nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Desulfotalea psychrophila</nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Frankia casuarinae</nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Pelobacter propionicus</nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Prosthecochloris aestuarii</nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Rhizobium etli</nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Teredinibacter turnerae</nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Thermomicrobium roseum </nombre_cientifico>
+        <tipo>Bacteria</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Homo sapiens</nombre_cientifico>
+        <tipo>Eukaryota</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Homo No Sapiens</nombre_cientifico>
+        <tipo>Human</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Drosophila melanogaster (Fruit fly)</nombre_cientifico>
+        <tipo>Insect</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Mus musculus</nombre_cientifico>
+        <tipo>Mouse</tipo>
+    </organismo>
+    <organismo>
+        <nombre_cientifico>Rattus norvegicus</nombre_cientifico>
+        <tipo>Rat</tipo>
+    </organismo>
+</organismos>

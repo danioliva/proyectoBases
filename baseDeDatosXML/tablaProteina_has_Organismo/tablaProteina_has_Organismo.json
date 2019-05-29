@@ -1,0 +1,72 @@
+[
+	{
+		"Proteina_entrada" : "A4SP05",
+		"Proteina_Gen_idGen" : "ASA_2603",
+		"Organismo_nombre_cientifico" : "Aeromonas salmonicida"
+	},
+	{
+		"Proteina_entrada" : "B0BCD9",
+		"Proteina_Gen_idGen" : "CTLon_0757",
+		"Organismo_nombre_cientifico" : "Chlamydia trachomatis serovar L2b"
+	},
+	{
+		"Proteina_entrada" : "Q6ALU8",
+		"Proteina_Gen_idGen" : "DP1948",
+		"Organismo_nombre_cientifico" : "Desulfotalea psychrophila"
+	},
+	{
+		"Proteina_entrada" : "Q9VRJ0",
+		"Proteina_Gen_idGen" : "CG10670",
+		"Organismo_nombre_cientifico" : "Drosophila melanogaster (Fruit fly)"
+	},
+	{
+		"Proteina_entrada" : "Q2JDQ4",
+		"Proteina_Gen_idGen" : "Francci3_1210",
+		"Organismo_nombre_cientifico" : "Frankia casuarinae"
+	},
+	{
+		"Proteina_entrada" : "P46695",
+		"Proteina_Gen_idGen" : "DIF2",
+		"Organismo_nombre_cientifico" : "Homo No Sapiens"
+	},
+	{
+		"Proteina_entrada" : "Q00604",
+		"Proteina_Gen_idGen" : "EVR2",
+		"Organismo_nombre_cientifico" : "Homo sapiens"
+	},
+	{
+		"Proteina_entrada" : "Q80Y75",
+		"Proteina_Gen_idGen" : "DNAJB13",
+		"Organismo_nombre_cientifico" : "Mus musculus"
+	},
+	{
+		"Proteina_entrada" : "A1AU17",
+		"Proteina_Gen_idGen" : "Ppro_3244",
+		"Organismo_nombre_cientifico" : "Pelobacter propionicus"
+	},
+	{
+		"Proteina_entrada" : "B4S573",
+		"Proteina_Gen_idGen" : "PAES_2009",
+		"Organismo_nombre_cientifico" : "Prosthecochloris aestuarii"
+	},
+	{
+		"Proteina_entrada" : "P01256",
+		"Proteina_Gen_idGen" : "Calca",
+		"Organismo_nombre_cientifico" : "Rattus norvegicus"
+	},
+	{
+		"Proteina_entrada" : "Q2KA61",
+		"Proteina_Gen_idGen" : "RHE_CH01472",
+		"Organismo_nombre_cientifico" : "Rhizobium etli"
+	},
+	{
+		"Proteina_entrada" : "C5BLW3",
+		"Proteina_Gen_idGen" : "TERTU_2637",
+		"Organismo_nombre_cientifico" : "Teredinibacter turnerae"
+	},
+	{
+		"Proteina_entrada" : "B9L159",
+		"Proteina_Gen_idGen" : "trd_1770",
+		"Organismo_nombre_cientifico" : "Thermomicrobium roseum"
+	}
+]
